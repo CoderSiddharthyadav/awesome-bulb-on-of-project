@@ -1,0 +1,12 @@
+input[type="button"]{
+    background-color: chartreuse;
+    color: red;
+    font-size: 45px;
+    margin-left: 100px;
+    font-weight: bold;
+    cursor: pointer;
+    
+}
+img{
+    margin-top: 70px;
+}
